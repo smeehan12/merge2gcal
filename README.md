@@ -48,7 +48,7 @@ where the entries are separted by ```#``` delimiters
 ```
 python calmerge.py
 ```
-after having followed the [Initial Setup](#Initial-Setup) instructions below.
+after having followed the [Initial Setup](#Initial Setup) instructions below.
 
 ## What else one can do with the script
 
@@ -75,7 +75,7 @@ A few ideas for the script which have not or only partly been implemented
 
 ## Getting Started
 
-### Initial-Setup
+### Initial Setup
 
 #### Authenticate against your Google calendar
 
